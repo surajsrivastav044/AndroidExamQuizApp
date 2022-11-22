@@ -3,7 +3,7 @@
  
 
 ## ScreenShots
-<img src="ScreenShot/1.jpeg" width="100%" /><br /> 
+<img src="ScreenShot/1.jpeg" width="33%" hight="100px" /><br /> 
 <img src="ScreenShot/2.jpeg" width="100%" /><br /> 
 <img src="ScreenShot/3.jpeg" width="100%" /><br /> <br />
 <img src="ScreenShot/4.jpeg" width="100%" /><br /> 
